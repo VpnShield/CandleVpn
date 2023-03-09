@@ -4,5 +4,5 @@
 "Link": "tg://resolve?domain=Vpn_Shield",
 "Color": "#29B6F6",
 "Button": "پیوستن",
-"Show": "on"
+"Show": "off"
 }
